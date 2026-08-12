@@ -1,0 +1,16 @@
+VCD info: dumpfile matrix_keyboard_scanner.vcd opened for output.
+
+Time=15 | Row=1110 | Column=1110 | Key=1
+Time=65 | Row=1101 | Column=1101 | Key=5
+Time=105 | Row=1011 | Column=1011 | Key=9
+Time=145 | Row=0111 | Column=0111 | Key=d
+
+---------------------------------------
+     MATRIX KEYBOARD SCANNER
+---------------------------------------
+Final Row       = 1110
+Final Key       = d
+Key Valid       = 0
+---------------------------------------
+matrix_keyboard_scanner_tb.v:...
+$finish called at ...
